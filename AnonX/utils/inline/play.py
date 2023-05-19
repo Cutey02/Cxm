@@ -644,12 +644,6 @@ def slider_markup(
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_3"],
-                url=f"{SUPPORT_GROUP}"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
                 text="◁",
                 callback_data=f"slider B|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
