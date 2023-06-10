@@ -83,7 +83,7 @@ PING_IMG_URL = getenv(
     "https://te.legra.ph/file/da6c7c88a35c41ec6b579.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/35c464bd07d8613092611.jpg"
 
 GLOBAL_IMG_URL = "https://te.legra.ph/file/da6c7c88a35c41ec6b579.jpg"
 
